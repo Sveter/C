@@ -1,0 +1,5 @@
+﻿  test5_20.c
+c:\users\李煜哲\source\repos\5_20\5_20\test5_20.c(6): error C2059: 语法错误:“;”
+c:\users\李煜哲\source\repos\5_20\5_20\test5_20.c(10): error C2059: 语法错误:“}”
+c:\users\李煜哲\source\repos\5_20\5_20\test5_20.c(14): error C2065: “a”: 未声明的标识符
+c:\users\李煜哲\source\repos\5_20\5_20\test5_20.c(15): warning C4013: “system”未定义；假设外部返回 int
