@@ -1,0 +1,4 @@
+﻿  test.c
+c:\users\李煜哲\desktop\excuse\class\stack\stack\stackapp.h(71): warning C4090: “函数”: 不同的“const”限定符
+c:\users\李煜哲\desktop\excuse\class\stack\stack\stackapp.h(71): warning C4013: “strlen”未定义；假设外部返回 int
+  Stack.vcxproj -> C:\Users\李煜哲\Desktop\excuse\class\Stack\Debug\Stack.exe
